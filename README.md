@@ -58,7 +58,7 @@
 ### 🐍 Contribution Snake
 
 
-![Snake animation](https://github.com/<Vijay06092004>/<your-repo>/blob/output/github-snake.svg)
+![Snake animation](https://github.com/<Vijay06092004>/<Readme.md>/blob/output/github-snake.svg)
 
 
 name: Generate Snake
