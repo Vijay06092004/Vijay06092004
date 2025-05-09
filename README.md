@@ -28,6 +28,16 @@
   <img src="https://img.shields.io/badge/Microcontroller-teal?style=for-the-badge"/>
 </p>
 
+### 💻 Tools used :
+
+ <p>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-gold and orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EasyEDA-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArdunioIDE-%23E34F26.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microcontroller-teal?style=for-the-badge"/>
+</p>
 
 ## Support:
 
