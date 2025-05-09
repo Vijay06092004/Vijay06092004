@@ -58,14 +58,16 @@
 ### 🐍 Contribution Snake
 
 
-![Snake animation](https://github.com/<Vijay06092004>/<Readme.md>/blob/output/github-snake.svg)
+### Contribution Snake
 
+![Snake animation](https://github.com/<Vijay06092004>/<README.md>/blob/output/github-snake.svg)
 
+```yaml
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *" # every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -75,15 +77,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+    outputs:
+      dist/github-snake.svg: |
+        dist/github-snake.svg
+        dist/github-snake-dark.svg?palette=github-dark
