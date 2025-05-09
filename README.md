@@ -86,7 +86,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.Vijay06092004 }}
     outputs:
       dist/github-snake.svg: |
         dist/github-snake.svg
