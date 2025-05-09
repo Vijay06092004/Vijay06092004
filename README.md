@@ -31,12 +31,12 @@
 ### 💻 Tools used :
 
  <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-gold and orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EasyEDA-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArdunioIDE-%23E34F26.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microcontroller-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyEDA-6600CC?style=for-the-badge&logo=easyeda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado-F5B400?style=for-the-badge&logo=xilinx&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microcontroller-555555?style=for-the-badge&logo=microchip&logoColor=white"/>
 </p>
 
 ## Support:
