@@ -68,8 +68,6 @@
 ### 🐍 Contribution Snake
 
 
-### Contribution Snake
-
 ![Snake animation](https://github.com/<Vijay06092004>/<README.md>/blob/output/github-snake.svg)
 
 ```yaml
