@@ -55,6 +55,9 @@
 </div>
 
 ---
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/<your-username>/<Vijay06092004>/blob/output/github-snake.svg)
 
 name: Generate Snake
 
