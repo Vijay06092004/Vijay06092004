@@ -9,7 +9,6 @@
 - 📫 How to reach me **Vijaymuli6@gmail.com**
 
 ---
-
 ### Connect with me:
 
 <p align="left">
