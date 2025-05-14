@@ -24,11 +24,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSP-darkblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Verilog-%23E34F26.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microcontroller-teal?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VHDL-6A5ACD?style=for-the-badge&logo=v&logoColor=white" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSP-1E90FF?style=for-the-badge&logo=signal&logoColor=white" alt="DSP"/>
+  <img src="https://img.shields.io/badge/Verilog-FF4500?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/Microcontroller-20B2AA?style=for-the-badge&logo=microchip&logoColor=white"/>
 </p>
 
 ### 💻 Tools used :
@@ -39,10 +39,8 @@
   <img src="https://img.shields.io/badge/EasyEDA-6600CC?style=for-the-badge&logo=easyeda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivado-F5B400?style=for-the-badge&logo=xilinx&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microcontroller-555555?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microchip-555555?style=for-the-badge&logo=microchip&logoColor=white"/>
 </p>
-
----
 
 ## Support:
 
