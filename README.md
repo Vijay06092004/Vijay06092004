@@ -69,8 +69,6 @@
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/Vijay06092004/Vijay06092004/blob/output/github-contribution-grid-snake.svg" />
-</div>
+![Snake animation](https://github.com/Vijay06092004/Vijay06092004/blob/output/github-snake.svg)
