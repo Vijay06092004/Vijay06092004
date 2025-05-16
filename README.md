@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar Reddy</h1>
-<h3 align="center">Passionate VLSI Enthusiast | Electronics & Communication Engineer | 20223 - 2026</h3>
+<h3 align="center">Passionate VLSI Enthusiast | Electronics & Communication Engineer | 2023 - 2026</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsrinivasan18&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay06092004" /> </p>
 
