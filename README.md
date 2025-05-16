@@ -76,15 +76,13 @@ ___
 
 ***
 
-Deployed test via GitHub Actions
-
 
 ### 🐍**Contribution Snake**
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vijay06092004/Vijay06092004/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vijay06092004/Vijay06092004/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vijay06092004/Vijay060920048/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vijay06092004/Vijay06092004/output/github-snake.svg" />
 </picture>
 
 
