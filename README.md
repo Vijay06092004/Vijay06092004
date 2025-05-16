@@ -33,8 +33,14 @@
 
 <h3 align="left">IDE and Tools i use:</h3>
 
-![Static Badge](https://img.shields.io/badge/Vivado-black?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Matlab-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/ModelSim-pink?style=plastic&logoColor=dark%20blue&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/ArduinoIDE%20-%20skyblue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Proteus%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/KeiluVision%20-%20red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Cadence%20-%20fire?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Leetcode%20-%20yellow?style=plastic&logoColor=dark%20blue&logoSize=auto) 
+![Static Badge](https://img.shields.io/badge/Vivado-black?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Matlab-red?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ModelSim-pink?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ArduinoIDE-skyblue?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Proteus-cyan?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/KeiluVision-red?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Cadence-fire?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/EasyEDA-orange?style=plastic&logo=easyeda&logoColor=white&logoSize=auto)
 
 
 
