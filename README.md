@@ -22,11 +22,12 @@
 
 <h3 align="left">💻I code in:</h3>
 
-![C](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto) 
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto) 
-![VHDL](https://img.shields.io/badge/VHDL-violet?style=plastic&logoColor=dark%20blue&logoSize=auto) 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ash?style=plastic&logoColor=dark%20blue&logoSize=auto) 
-![Microcontroller](https://img.shields.io/badge/Microcontroller-cyan?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/VHDL-violet?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/SystemVerilog-ash?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Microcontroller-cyan?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/PCB-green?style=plastic&logoColor=dark%20blue&logoSize=auto)
 
 
 
