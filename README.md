@@ -76,6 +76,8 @@ ___
 
 ***
 
+Deployed test via GitHub Actions
+
 
 ### 🐍**Contribution Snake**
 
