@@ -22,7 +22,11 @@
 
 <h3 align="left">💻I code in:</h3>
 
-![Static Badge](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/C%2B%2B-green?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/java-brown?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/python-yellow?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Microcontroller%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SQL%20-%20orange?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/PERL%20-%20pink?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VHDL%20-%20violet?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SystemVerilog%20-%20ash?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/UVM%20-%20brown?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/TCL%20-%20White?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![C](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto) 
+![Verilog](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto) 
+![VHDL](https://img.shields.io/badge/VHDL-violet?style=plastic&logoColor=dark%20blue&logoSize=auto) 
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-ash?style=plastic&logoColor=dark%20blue&logoSize=auto) 
+![Microcontroller](https://img.shields.io/badge/Microcontroller-cyan?style=plastic&logoColor=dark%20blue&logoSize=auto)
 
 
 
