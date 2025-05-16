@@ -1,72 +1,94 @@
-<h1 align="center">Hi 👋, I'm Vijay Kumar Reddy</h1>
-<h3 align="center">Passionate VLSI Enthusiast | Electronics & Communication Engineer | 2023 - 2026</h3>
+<h1 align="center">Hi 👋, I'm Ganesh</h1>
+<h3 align="center">Passionate VLSI Enthusiast | Electronics & Communication Engineer | 2022 - 2026</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vijay06092004&label=Profile%20views&color=0e75b6&style=flat" alt="Vijay06092004" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsrinivasan18&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsrinivasan18" /> </p>
 
-- 💬 Ask me about **Digital Circuits, RTL tools, Semiconductors, CMOS technology...**  
-- 📫 How to reach me **Vijaymuli6@gmail.com**
 
----
 
-### Connect with me:
+- 💬 Ask me about **Digital Circuits, RTL tools, Semiconductors,CMOS technology,C,Perl........**
 
+- 📫 How to reach me **ganeshsrinivasan1803@gmail.com**
+
+
+***
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vijay-kumar-313a49345/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
+<a href="www.linkedin.com/in/ganeshsrinivasan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ganeshsrinivasan18" height="30" width="40" /></a>
+<a href="https://instagram.com/ganesh_3.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_3.18" height="30" width="40" /></a>
 </p>
 
----
+***
 
-### 💻 I code in:
+<h3 align="left">💻I code in:</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-6A5ACD?style=for-the-badge&logo=v&logoColor=white" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSP-1E90FF?style=for-the-badge&logo=signal&logoColor=white" alt="DSP"/>
-  <img src="https://img.shields.io/badge/Verilog-FF4500?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/Microcontroller-20B2AA?style=for-the-badge&logo=microchip&logoColor=white"/>
-</p>
+![Static Badge](https://img.shields.io/badge/C-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/C%2B%2B-green?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/java-brown?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/python-yellow?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Verilog-blue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Microcontroller%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SQL%20-%20orange?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/PERL%20-%20pink?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VHDL%20-%20violet?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/SystemVerilog%20-%20ash?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/UVM%20-%20brown?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/TCL%20-%20White?style=plastic&logoColor=dark%20blue&logoSize=auto)
 
-### 💻 Tools used :
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=Mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EasyEDA-6600CC?style=for-the-badge&logo=easyeda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-F5B400?style=for-the-badge&logo=xilinx&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microchip-555555?style=for-the-badge&logo=microchip&logoColor=white"/>
-</p>
 
-## Support:
+<h3 align="left">IDE and Tools i use:</h3>
 
-<a href="https://www.buymeacoffee.com/your-buymeacoffee-username" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+![Static Badge](https://img.shields.io/badge/Vivado-black?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Matlab-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/ModelSim-pink?style=plastic&logoColor=dark%20blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ArduinoIDE%20-%20skyblue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Proteus%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/KeiluVision%20-%20red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Cadence%20-%20fire?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Leetcode%20-%20yellow?style=plastic&logoColor=dark%20blue&logoSize=auto) 
 
----
 
-## 📊 Github Statistics
+
+
+
+
+
+
+
+
+
+***
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br
+
+
+***
+***
+
+
+
+
+### 📊 Github Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijay06092004&show_icons=true&theme=dark&rank_icon=github&custom_title=My%20GitHub%20Statistics&hide_border=false&count_private=true" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay06092004&layout=compact&theme=dark&langs_count=10&hide_border=false" width="400px" />
-</div>
+  <img height="200em" width = "550em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganeshsrinivasan18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsrinivasan18&theme=dracula&show_icons=true&layout=compact"/>
+  </div
+<!--   <div align="center">
+<!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=ganeshsrinivasan18&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
+<!-- </div> --> 
 
----
+<!--![ganeshsrinivasan18 Tropihes](https://github-profile-trophy.vercel.app/?username=ganeshsrinivasan18&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
+___
 
-## 📈 Streak
+### 📈 Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vijay06092004&theme=dark&hide_border=false" width="600px" />
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsrinivasan18&theme=dracula&show_icons=true&layout=compact"/><br>
+<!--    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsrinivasan18&theme=tokyonight&hide_border=false"/><br> -->
+  
 </div>
 
----
+***
 
-### 🐍 Contribution Snake
+### 🐍**Contribution Snake**
 
-![Snake animation](https://github.com/Vijay06092004/Vijay06092004/blob/output/github-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ganeshsrinivasan18/ganeshsrinivasan18/output/github-snake.svg" />
+</picture>
+
+
+
+
+
+
+
+
