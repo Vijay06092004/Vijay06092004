@@ -74,7 +74,7 @@
 <!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
 <!-- </div> --> 
 
-<!--![ganeshsrinivasan18 Tropihes](https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
+<!--![Vijay06092004 Tropihes](https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
 ___
 
 ### 📈 Streak
