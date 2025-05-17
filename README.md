@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vijay-kumar-313a49345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ganeshsrinivasan18" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-kumar-313a49345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/Vijay06092004" height="30" width="40" /></a>
 
 
 ***
@@ -74,7 +74,7 @@
 <!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
 <!-- </div> --> 
 
-<!--![Vijay06092004 Tropihes](https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
+<!--![Vijay06092004Tropihes](https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
 ___
 
 ### 📈 Streak
