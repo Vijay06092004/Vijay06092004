@@ -27,7 +27,7 @@
 <h3 align="left">IDE and Tools i use:</h3>
 
 ![Static Badge](https://img.shields.io/badge/Vivado-black?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Matlab-red?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/ModelSim-pink?style=plastic&logoColor=dark%20blue&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/ArduinoIDE%20-%20skyblue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VMWare_Work Station%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Cadance%20-%20red?style=plastic&logoColor=dark%20blue&logoSize=auto) 
+![Static Badge](https://img.shields.io/badge/ArduinoIDE%20-%20skyblue?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/VMWare_Work_Station%20-%20cyan?style=plastic&logoColor=dark%20blue&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Cadance%20-%20red?style=plastic&logoColor=dark%20blue&logoSize=auto) 
 
 
 
