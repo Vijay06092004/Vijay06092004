@@ -18,7 +18,7 @@
 
 <p align="left">
   <!-- GitHub -->
-  <a href="https://github.com/vijay-m" target="_blank">
+  <a href="https://github.com/Vijay06092004" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 
