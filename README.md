@@ -63,8 +63,6 @@
 
 📊 GitHub Statistics
 <div align="center"> <!-- GitHub Stats Card --> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vijay06092004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <!-- Most Used Languages --> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay06092004&layout=compact&theme=dracula"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Vijay06092004&theme=flat&title=Commit,Followers,Stars,Repositories,PullRequest&margin-w=15"/> </div>
 
 ### 📈 Streak
 
