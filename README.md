@@ -61,18 +61,10 @@
 
 
 
-### 📊 Github Statistics
-
-<div align="center">
-  <img height="200em" width = "550em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vijay06092004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" width = "400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay06092004&theme=dracula&show_icons=true&layout=compact"/>
-  </div
-<!--   <div align="center">
-<!--   <img height="200em" width = "1000em" src="https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15"/> -->
-<!-- </div> --> 
-
-<!--![Vijay06092004 Tropihes](https://github-profile-trophy.vercel.app/?username=Vijay06092004&title=Commit,Followers,Stars,Repositories,PullRequest&theme=flat&margin-w=15) -->
-___
+📊 GitHub Statistics
+<div align="center"> <!-- GitHub Stats Card --> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Vijay06092004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <!-- Most Used Languages --> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay06092004&layout=compact&theme=dracula"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Vijay06092004&theme=flat&title=Commit,Followers,Stars,Repositories,PullRequest&margin-w=15"/> </div>
 
 ### 📈 Streak
 
