@@ -22,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 
-  <!-- Email -->
+  <!- Email ->
   <a href="mailto:vijaymuli6@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" height="30" width="40" />
   </a>
